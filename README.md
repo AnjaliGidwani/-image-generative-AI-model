@@ -1,14 +1,14 @@
 # -image-generative-AI-model
-Open Anaconda Prompt : 
-1. conda create -n myenv
-2. conda activate myenv
-3. conda install -c conda-forge opencv
-4. conda install numpy
-5. conda install -c conda-forge pillow
-6. pip install tensorflow
-7. pip install tensorflow-gpu
-8. conda install jupyter
-9. jupyter-notebook
+# Open Anaconda Prompt : 
+# 1. conda create -n myenv
+# 2. conda activate myenv
+# 3. conda install -c conda-forge opencv
+# 4. conda install numpy
+# 5. conda install -c conda-forge pillow
+# 6. pip install tensorflow
+# 7. pip install tensorflow-gpu
+# 8. conda install jupyter
+# 9. jupyter-notebook
 
         import os
         import cv2
